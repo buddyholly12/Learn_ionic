@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  //  var firebaseConfig = {
+  //  apiKey: "AIzaSyCoY_H6qljQnJ5mwReONKhDtoEczWx0dX0",
+  //  authDomain: "ionicauthexercice.firebaseapp.com",
+   // databaseURL: "https://ionicauthexercice.firebaseio.com",
+   // projectId: "ionicauthexercice",
+    //storageBucket: "ionicauthexercice.appspot.com",
+    //messagingSenderId: "41887617358",
+    //appId: "1:41887617358:web:2ee30594b5609fdf"
+ // };
 };
 
 /*
